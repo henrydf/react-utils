@@ -1,0 +1,23 @@
+{
+  "name": "@henrydf/react-utils",
+  "version": "0.0.1",
+  "description": "personal utils for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrydf/react-utils.git"
+  },
+  "keywords": [
+    "react",
+    "utils"
+  ],
+  "author": "Henrydf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henrydf/react-utils/issues"
+  },
+  "homepage": "https://github.com/henrydf/react-utils#readme"
+}
